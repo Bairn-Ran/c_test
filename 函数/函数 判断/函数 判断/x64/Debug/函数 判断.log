@@ -1,0 +1,5 @@
+﻿  函数.c
+E:\code\study-about-c-and-test\练习\函数练习\函数 判断\函数 判断\函数.c(35,4): warning C4098: “sushu2”:“void”函数返回值
+E:\code\study-about-c-and-test\练习\函数练习\函数 判断\函数 判断\函数.c(37,3): warning C4098: “sushu2”:“void”函数返回值
+E:\code\study-about-c-and-test\练习\函数练习\函数 判断\函数 判断\函数.c(110,2): warning C4098: “add”:“void”函数返回值
+  函数 判断.vcxproj -> E:\code\study-about-c-and-test\练习\函数练习\函数 判断\x64\Debug\函数 判断.exe
